@@ -6,4 +6,4 @@ __Project Description__: Web scraping page of 2021-2022 inflation surge
 
 __Webscraped URL__: https://en.wikipedia.org/wiki/2021–2022_inflation_surge#cite_note-1
 
-__Collaborator__: Harshil Patel (hmpatel@my.waketech.edu) ACCEPTED
+__Collaborator__: Harshil Patel (hmpatel@my.waketech.edu) ACCEPTED: 11/27/2023
