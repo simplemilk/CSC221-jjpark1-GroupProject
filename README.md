@@ -1,5 +1,6 @@
 # CSC221-jjpark1-GroupProject
 Group Project for CSC221 2023 FA
+
 __Owner__: Jonathan jjpark1@my.waketech.edu
 
 __Project Description__: Web scraping page of South Korean National Football Team
