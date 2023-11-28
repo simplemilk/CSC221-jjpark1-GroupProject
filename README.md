@@ -4,6 +4,6 @@ __Owner__: Jonathan jjpark1@my.waketech.edu
 
 __Project Description__: Web scraping page of 2021-2022 inflation surge
 
-__Webscraped URL__: https://en.wikipedia.org/wiki/2021–2022_inflation_surge#cite_note-1
+__Webscraped URL__: [https://en.wikipedia.org/wiki/2021–2022_inflation_surge#cite_note-1](https://en.wikipedia.org/wiki/South_Korea_national_football_team)
 
 __Collaborator__: Harshil Patel (hmpatel@my.waketech.edu) ACCEPTED: 11/27/2023
